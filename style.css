@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+h3 {
+    color: lime;
+}
+
+h4 {
+    background-color: lightblue;
+}
